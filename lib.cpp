@@ -2,6 +2,7 @@
 // Created by Mattia on 08/12/2021.
 //
 
+
 float max (float n[], int d){
     float m=n[0];
     int i;
